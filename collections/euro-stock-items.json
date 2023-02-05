@@ -1,0 +1,210 @@
+[
+  { "Name": "Adidas", "Sector": "Consumer Discretionary", "Symbol": "ADS.DE" },
+  { "Name": "Allianz", "Sector": "Financials", "Symbol": "ALV.DE" },
+  { "Name": "BASF", "Sector": "Materials", "Symbol": "BAS.DE" },
+  { "Name": "Bayer", "Sector": "Health Care", "Symbol": "BAYN.DE" },
+  { "Name": "Beiersdorf", "Sector": "Consumer Staples", "Symbol": "BEI.DE" },
+  { "Name": "BMW", "Sector": "Consumer Discretionary", "Symbol": "BMW.DE" },
+  {
+    "Name": "Continental",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "CON.DE"
+  },
+  { "Name": "Daimler", "Sector": "Consumer Discretionary", "Symbol": "DAI.DE" },
+  { "Name": "Deutsche Bank", "Sector": "Financials", "Symbol": "DBK.DE" },
+  { "Name": "Deutsche Börse", "Sector": "Financials", "Symbol": "DB1.DE" },
+  { "Name": "Deutsche Post", "Sector": "Industrials", "Symbol": "DPW.DE" },
+  { "Name": "EON", "Sector": "Utilities", "Symbol": "EON.DE" },
+  { "Name": "Fresenius", "Sector": "Health Care", "Symbol": "FRE.DE" },
+  {
+    "Name": "Fresenius Medical Care",
+    "Sector": "Health Care",
+    "Symbol": "FME.DE"
+  },
+  { "Name": "HeidelbergCement", "Sector": "Materials", "Symbol": "HEI.DE" },
+  { "Name": "Henkel", "Sector": "Consumer Goods", "Symbol": "HEN3.DE" },
+  {
+    "Name": "Infineon",
+    "Sector": "Information Technology",
+    "Symbol": "IFX.DE"
+  },
+  { "Name": "Linde", "Sector": "Materials", "Symbol": "LIN.DE" },
+  { "Name": "Lufthansa", "Sector": "Industrials", "Symbol": "LHA.DE" },
+  { "Name": "Merck", "Sector": "Health Care", "Symbol": "MRK.DE" },
+  { "Name": "Metro", "Sector": "Consumer Services", "Symbol": "B4B.DE" },
+  { "Name": "MTU Aero Engines", "Sector": "Industrials", "Symbol": "MTX.DE" },
+  { "Name": "Muench. Rueckvers.", "Sector": "Financials", "Symbol": "MUV2.DE" },
+  { "Name": "RWE", "Sector": "Utilities", "Symbol": "RWE.DE" },
+  { "Name": "AGFA-Gevaert", "Sector": "Health Care", "Symbol": "AGFB.BE" },
+  { "Name": "Aperam", "Sector": "Materials", "Symbol": "APAM.BE" },
+  { "Name": "ArcelorMittal", "Sector": "Materials", "Symbol": "MT.BE" },
+  { "Name": "Befimmo", "Sector": "Financials", "Symbol": "BEFB.BE" },
+  { "Name": "BESI", "Sector": "Information Technology", "Symbol": "BESI.BE" },
+  { "Name": "Bpost", "Sector": "Industrials", "Symbol": "BPOST.BE" },
+  { "Name": "Bru.Beau.mont.", "Sector": "Consumer Goods", "Symbol": "BAM.BE" },
+  { "Name": "Cofinimmo", "Sector": "Financials", "Symbol": "COFB.BE" },
+  { "Name": "Colruyt", "Sector": "Consumer Staples", "Symbol": "COLR.BE" },
+  {
+    "Name": "Deckers",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "DECKB.BE"
+  },
+  { "Name": "Delhaize", "Sector": "Consumer Staples", "Symbol": "DELB.BE" },
+  { "Name": "Electrawinds", "Sector": "Utilities", "Symbol": "ELEW.BE" },
+  { "Name": "Elia System Operator", "Sector": "Utilities", "Symbol": "ELI.BE" },
+  {
+    "Name": "Elisa",
+    "Sector": "Telecommunications Services",
+    "Symbol": "ELI1V.BE"
+  },
+  { "Name": "GBL", "Sector": "Financials", "Symbol": "GBLB.BE" },
+  { "Name": "IBA", "Sector": "Health Care", "Symbol": "IBA.BE" },
+  { "Name": "ING Groep", "Sector": "Financials", "Symbol": "INGA.BE" },
+  { "Name": "KBC", "Sector": "Financials", "Symbol": "KBC.BE" },
+  { "Name": "Nyrstar", "Sector": "Materials", "Symbol": "NYR.BE" },
+  {
+    "Name": "Proximus",
+    "Sector": "Telecommunications Services",
+    "Symbol": "PROX.BE"
+  },
+  { "Name": "Solvay", "Sector": "Materials", "Symbol": "SOLB.BE" },
+  { "Name": "Aegon", "Sector": "Financials", "Symbol": "AGN.AS" },
+  { "Name": "Akzo Nobel", "Sector": "Materials", "Symbol": "AKZA.AS" },
+  {
+    "Name": "ASML Holding",
+    "Sector": "Information Technology",
+    "Symbol": "ASML.AS"
+  },
+  { "Name": "ING Groep", "Sector": "Financials", "Symbol": "INGA.AS" },
+  { "Name": "DSM", "Sector": "Materials", "Symbol": "DSM.AS" },
+  { "Name": "Galapagos", "Sector": "Health Care", "Symbol": "GLPG.AS" },
+  { "Name": "Heineken", "Sector": "Consumer Staples", "Symbol": "HEIA.AS" },
+  {
+    "Name": "Huntington Bancshares",
+    "Sector": "Financials",
+    "Symbol": "HBAN.AS"
+  },
+  {
+    "Name": "KPN",
+    "Sector": "Telecommunications Services",
+    "Symbol": "KPN.AS"
+  },
+  { "Name": "Philips", "Sector": "Health Care", "Symbol": "PHIA.AS" },
+  { "Name": "Randstad Holding", "Sector": "Industrials", "Symbol": "RAND.AS" },
+  { "Name": "Relx", "Sector": "Industrials", "Symbol": "RELX.AS" },
+  { "Name": "Royal Dutch Shell", "Sector": "Energy", "Symbol": "RDSA.AS" },
+  { "Name": "SBM Offshore", "Sector": "Energy", "Symbol": "SBMO.AS" },
+  {
+    "Name": "Unibail-Rodamco-Westfield",
+    "Sector": "Financials",
+    "Symbol": "URW.AS"
+  },
+  { "Name": "Vopak", "Sector": "Energy", "Symbol": "VPK.AS" },
+  { "Name": "Wolters Kluwer", "Sector": "Industrials", "Symbol": "WKL.AS" },
+  { "Name": "Aalberts", "Sector": "Industrials", "Symbol": "AALB.AS" },
+  {
+    "Name": "Adyen",
+    "Sector": "Information Technology",
+    "Symbol": "ADYEN.AS"
+  },
+  { "Name": "Signify", "Sector": "Industrials", "Symbol": "LIGHT.AS" },
+  {
+    "Name": "Takeaway.com",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "TKWY.AS"
+  },
+  { "Name": "Unilever", "Sector": "Consumer Goods", "Symbol": "UNA.AS" },
+  { "Name": "Vivint Solar", "Sector": "Utilities", "Symbol": "VSLR.AS" },
+  { "Name": "Air Liquide", "Sector": "Materials", "Symbol": "AI.PA" },
+  { "Name": "Airbus", "Sector": "Industrials", "Symbol": "AIR.PA" },
+  { "Name": "Bouygues", "Sector": "Industrials", "Symbol": "EN.PA" },
+  { "Name": "BNP Paribas", "Sector": "Financials", "Symbol": "BNP.PA" },
+  {
+    "Name": "Capgemini",
+    "Sector": "Information Technology",
+    "Symbol": "CAP.PA"
+  },
+  { "Name": "Carrefour", "Sector": "Consumer Goods", "Symbol": "CA.PA" },
+  { "Name": "Crédit Agricole", "Sector": "Financials", "Symbol": "ACA.PA" },
+  { "Name": "Danone", "Sector": "Consumer Staples", "Symbol": "BN.PA" },
+  { "Name": "EssilorLuxottica", "Sector": "Consumer Goods", "Symbol": "EI.PA" },
+  { "Name": "Peugeot", "Sector": "Consumer Goods", "Symbol": "UG.PA" },
+  {
+    "Name": "Publicis Groupe",
+    "Sector": "Consumer Discretionary",
+    "Symbol": "PUB.PA"
+  },
+  { "Name": "Saint-Gobain", "Sector": "Materials", "Symbol": "SGO.PA" },
+  { "Name": "Sanofi", "Sector": "Health Care", "Symbol": "SAN.PA" },
+  { "Name": "Schneider Electric", "Sector": "Industrials", "Symbol": "SU.PA" },
+  { "Name": "Société Générale", "Sector": "Financials", "Symbol": "GLE.PA" },
+  {
+    "Name": "STMicroelectronics",
+    "Sector": "Information Technology",
+    "Symbol": "STM.PA"
+  },
+  { "Name": "Total", "Sector": "Energy", "Symbol": "FP.PA" },
+  { "Name": "Vallourec", "Sector": "Materials", "Symbol": "VK.PA" },
+  { "Name": "Veolia", "Sector": "Utilities", "Symbol": "VIE.PA" },
+  { "Name": "Accor", "Sector": "Consumer Discretionary", "Symbol": "AC.PA" },
+  { "Name": "Alten", "Sector": "Information Technology", "Symbol": "ATE.PA" },
+  { "Name": "Atos", "Sector": "Information Technology", "Symbol": "ATO.PA" },
+  {
+    "Name": "Coca-Cola European Partners",
+    "Sector": "Consumer Staples",
+    "Symbol": "CCEP.AS.PA"
+  },
+  {
+    "Name": "Eurofins Scientific",
+    "Sector": "Health Care",
+    "Symbol": "ERF.PA"
+  },
+  { "Name": "Abengoa", "Sector": "Utilities", "Symbol": "ABG.MC" },
+  { "Name": "Acciona", "Sector": "Industrials", "Symbol": "ANA.MC" },
+  {
+    "Name": "Amadeus IT Group",
+    "Sector": "Information Technology",
+    "Symbol": "AMS.MC"
+  },
+  {
+    "Name": "Abertis Infraestructuras",
+    "Sector": "Industrials",
+    "Symbol": "ABE.MC"
+  },
+  { "Name": "Bankia", "Sector": "Financials", "Symbol": "BKIA.MC" },
+  { "Name": "Banco Santander", "Sector": "Financials", "Symbol": "SAN.MC" },
+  { "Name": "CaixaBank", "Sector": "Financials", "Symbol": "CABK.MC" },
+  { "Name": "Colonial", "Sector": "Financials", "Symbol": "CLN.MC" },
+  { "Name": "Enagás", "Sector": "Utilities", "Symbol": "ENG.MC" },
+  { "Name": "Endesa", "Sector": "Utilities", "Symbol": "ELE.MC" },
+  {
+    "Name": "Fomento de Construcciones y Contratas",
+    "Sector": "Industrials",
+    "Symbol": "FCC.MC"
+  },
+  {
+    "Name": "Gamesa Corporación Tecnológica",
+    "Sector": "Industrials",
+    "Symbol": "GAM.MC"
+  },
+  { "Name": "Gas Natural", "Sector": "Utilities", "Symbol": "GAS.MC" },
+  { "Name": "Grifols", "Sector": "Health Care", "Symbol": "GRF.MC" },
+  { "Name": "IAG", "Sector": "Industrials", "Symbol": "IAG.MC" },
+  {
+    "Name": "Indra Sistemas",
+    "Sector": "Information Technology",
+    "Symbol": "IDR.MC"
+  },
+  { "Name": "Mapfre", "Sector": "Financials", "Symbol": "MAP.MC" },
+  { "Name": "Red Eléctrica", "Sector": "Utilities", "Symbol": "REE.MC" },
+  {
+    "Name": "Telefónica",
+    "Sector": "Telecommunications Services",
+    "Symbol": "TEF.MC"
+  },
+  {
+    "Name": "Tecnocom",
+    "Sector": "Information Technology",
+    "Symbol": "TCM.MC"
+  }
+]
