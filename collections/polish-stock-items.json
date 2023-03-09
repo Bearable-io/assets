@@ -1,102 +1,50 @@
 [
   {
-    "Name": "AmRest Holdings",
-    "Sector": "Consumer Cyclical",
-    "Symbol": "EAT.WA"
+    "name": "AmRest Holdings",
+    "sector": "Consumer Cyclical",
+    "symbol": "EAT.WA"
+  },
+  { "name": "Budimex SA", "sector": "Industrials", "symbol": "BDX.WA" },
+  { "name": "Ciech SA", "sector": "Basic Materials", "symbol": "CIE.WA" },
+  { "name": "Allegro", "sector": "Consumer Cyclical", "symbol": "ALE.WA" },
+  {
+    "name": "KGHM Polska Miedz SA",
+    "sector": "Basic Materials",
+    "symbol": "KGH.WA"
+  },
+  { "name": "Enea", "sector": "Utilities", "symbol": "ENA.WA" },
+  {
+    "name": "CD Projekt SA",
+    "sector": "Communication Services",
+    "symbol": "CDR.WA"
   },
   {
-    "Name": "Budimex SA",
-    "Sector": "Industrials",
-    "Symbol": "BDX.WA"
+    "name": "Banco Santander SA",
+    "sector": "Financial Services",
+    "symbol": "SAN.WA"
+  },
+  { "name": "Dino", "sector": "Consumer Defensive", "symbol": "DNP.WA" },
+  {
+    "name": "Cyfrowy Polsat SA",
+    "sector": "Communication Services",
+    "symbol": "CPS.WA"
   },
   {
-    "Name": "Ciech SA",
-    "Sector": "Basic Materials",
-    "Symbol": "CIE.WA"
+    "name": "Powszechny Zaklad Ubezp",
+    "sector": "Financial Services",
+    "symbol": "PZU.WA"
   },
+  { "name": "PKN Orlen SA", "sector": "Energy", "symbol": "PKN.WA" },
+  { "name": "Grupa Azoty SA", "sector": "Basic Materials", "symbol": "ATT.WA" },
+  { "name": "PEKAO SA", "sector": "Financial Services", "symbol": "PEO.WA" },
+  { "name": "XTB SA", "sector": "Financial Services", "symbol": "XTB.WA" },
+  { "name": "GPW SA", "sector": "Financial Services", "symbol": "GPW.WA" },
   {
-    "Name": "Allegro",
-    "Sector": "Consumer Cyclical",
-    "Symbol": "ALE.WA"
+    "name": "Inter Cars SA",
+    "sector": "Consumer Cyclical",
+    "symbol": "CAR.WA"
   },
-  {
-    "Name": "KGHM Polska Miedz SA",
-    "Sector": "Basic Materials",
-    "Symbol": "KGH.WA"
-  },
-  {
-    "Name": "Enea",
-    "Sector": "Utilities",
-    "Symbol": "ENA.WA"
-  },
-  {
-    "Name": "CD Projekt SA",
-    "Sector": "Communication Services",
-    "Symbol": "CDR.WA"
-  },
-  {
-    "Name": "Banco Santander SA",
-    "Sector": "Financial Services",
-    "Symbol": "SAN.WA"
-  },
-  {
-    "Name": "Dino",
-    "Sector": "Consumer Defensive",
-    "Symbol": "DNP.WA"
-  },
-  {
-    "Name": "Cyfrowy Polsat SA",
-    "Sector": "Communication Services",
-    "Symbol": "CPS.WA"
-  },
-  {
-    "Name": "Powszechny Zaklad Ubezpieczen SA",
-    "Sector": "Financial Services",
-    "Symbol": "PZU.WA"
-  },
-  {
-    "Name": "PKN Orlen SA",
-    "Sector": "Energy",
-    "Symbol": "PKN.WA"
-  },
-  {
-    "Name": "Grupa Azoty SA",
-    "Sector": "Basic Materials",
-    "Symbol": "ATT.WA"
-  },
-  {
-    "Name": "PEKAO SA",
-    "Sector": "Financial Services",
-    "Symbol": "PEO.WA"
-  },
-  {
-    "Name": "XTB SA",
-    "Sector": "Financial Services",
-    "Symbol": "XTB.WA"
-  },
-  {
-    "Name": "GPW SA",
-    "Sector": "Financial Services",
-    "Symbol": "GPW.WA"
-  },
-  {
-    "Name": "Inter Cars SA",
-    "Sector": "Consumer Cyclical",
-    "Symbol": "CAR.WA"
-  },
-  {
-    "Name": "Asseco Poland SA",
-    "Sector": "Technology",
-    "Symbol": "ACP.WA"
-  },
-  {
-    "Name": "Mabion SA",
-    "Sector": "Healthcare",
-    "Symbol": "MAB.WA"
-  },
-  {
-    "Name": "CCC SA",
-    "Sector": "Consumer Cyclical",
-    "Symbol": "CCC.WA"
-  }
+  { "name": "Asseco Poland SA", "sector": "Technology", "symbol": "ACP.WA" },
+  { "name": "Mabion SA", "sector": "Healthcare", "symbol": "MAB.WA" },
+  { "name": "CCC SA", "sector": "Consumer Cyclical", "symbol": "CCC.WA" }
 ]
