@@ -75,7 +75,6 @@
   { "name": "American Tower", "sector": "Real Estate", "symbol": "AMT" },
   { "name": "American Water Works", "sector": "Utilities", "symbol": "AWK" },
   { "name": "Ameriprise Financial", "sector": "Financials", "symbol": "AMP" },
-  { "name": "AmerisourceBergen", "sector": "Health Care", "symbol": "ABC" },
   { "name": "Ametek", "sector": "Industrials", "symbol": "AME" },
   { "name": "Amgen", "sector": "Health Care", "symbol": "AMGN" },
   { "name": "Amphenol", "sector": "Information Technology", "symbol": "APH" },
@@ -359,7 +358,6 @@
     "symbol": "EL"
   },
   { "name": "Etsy", "sector": "Consumer Discretionary", "symbol": "ETSY" },
-  { "name": "Everest Re", "sector": "Financials", "symbol": "RE" },
   { "name": "Evergy", "sector": "Utilities", "symbol": "EVRG" },
   { "name": "Eversource Energy", "sector": "Utilities", "symbol": "ES" },
   { "name": "Exelon", "sector": "Utilities", "symbol": "EXC" },
@@ -390,9 +388,7 @@
     "symbol": "FIS"
   },
   { "name": "Fifth Third Bancorp", "sector": "Financials", "symbol": "FITB" },
-  { "name": "First Republic Bank", "sector": "Financials", "symbol": "FRC" },
   { "name": "FirstEnergy", "sector": "Utilities", "symbol": "FE" },
-  { "name": "Fiserv", "sector": "Information Technology", "symbol": "FISV" },
   { "name": "Fleetcor", "sector": "Information Technology", "symbol": "FLT" },
   { "name": "FMC Corporation", "sector": "Materials", "symbol": "FMC" },
   { "name": "Ford", "sector": "Consumer Discretionary", "symbol": "F" },
