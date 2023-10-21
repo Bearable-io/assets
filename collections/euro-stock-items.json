@@ -13,8 +13,6 @@
   { "name": "Daimler", "sector": "Consumer Discretionary", "symbol": "DTG.DE" },
   { "name": "Deutsche Bank", "sector": "Financials", "symbol": "DBK.DE" },
   { "name": "Deutsche Börse", "sector": "Financials", "symbol": "DB1.DE" },
-  { "name": "Deutsche Post", "sector": "Industrials", "symbol": "DPW.DE" },
-  { "name": "EON", "sector": "Utilities", "symbol": "EON.BR" },
   { "name": "Fresenius", "sector": "Health Care", "symbol": "FRE.DE" },
   {
     "name": "Fresenius Medical Care",
@@ -76,7 +74,6 @@
     "symbol": "ASML.AS"
   },
   { "name": "ING Groep", "sector": "Financials", "symbol": "INGA.AS" },
-  { "name": "DSM", "sector": "Materials", "symbol": "DSM.AS" },
   { "name": "Galapagos", "sector": "Health Care", "symbol": "GLPG.AS" },
   { "name": "Heineken", "sector": "Consumer Staples", "symbol": "HEIA.AS" },
   {
@@ -94,11 +91,6 @@
   { "name": "Relx", "sector": "Industrials", "symbol": "REN.AS" },
   { "name": "Royal Dutch Shell", "sector": "Energy", "symbol": "RDSA.AS" },
   { "name": "SBM Offshore", "sector": "Energy", "symbol": "SBMO.AS" },
-  {
-    "name": "Unibail-Rodamco-Westfield",
-    "sector": "Financials",
-    "symbol": "URW.AS"
-  },
   { "name": "Vopak", "sector": "Energy", "symbol": "VPK.AS" },
   { "name": "Wolters Kluwer", "sector": "Industrials", "symbol": "WKL.AS" },
   { "name": "Aalberts", "sector": "Industrials", "symbol": "AALB.AS" },
