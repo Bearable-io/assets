@@ -959,7 +959,6 @@
   { "name": "TransDigm Group", "sector": "Industrials", "symbol": "TDG" },
   { "name": "Trimble", "sector": "Information Technology", "symbol": "TRMB" },
   { "name": "Truist Financial", "sector": "Financials", "symbol": "TFC" },
-  { "name": "Twitter", "sector": "Communication Services", "symbol": "TWTR" },
   {
     "name": "Tyler Technologies",
     "sector": "Information Technology",
@@ -6333,11 +6332,6 @@
   {
     "name": "Blue Foundry Bancorp",
     "symbol": "BLFY",
-    "sector": "N/A"
-  },
-  {
-    "name": "Berkeley Lights Inc",
-    "symbol": "BLI",
     "sector": "N/A"
   },
   {
@@ -25148,11 +25142,6 @@
   {
     "name": "Mainz Biomed N.V.",
     "symbol": "MYNZ",
-    "sector": "N/A"
-  },
-  {
-    "name": "Myovant Sciences Ltd",
-    "symbol": "MYOV",
     "sector": "N/A"
   },
   {
